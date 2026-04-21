@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+nltk
+streamlit
+joblib
+
+
+
+
